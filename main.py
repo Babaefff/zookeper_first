@@ -124,9 +124,9 @@ game_on = True
 
 while game_on:
 
-    ask = input("Please enter the number of the habitat you would like to view:")
-    if ask == "exit":
+    choose = input("Please enter the number of the habitat you would like to view:")
+    if choose == "exit":
         print("See you later!")
         break
 
-    print(animals[int(ask)])
+    print(animals[int(choose)])

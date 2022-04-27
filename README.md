@@ -1,1 +1,1 @@
-# zookeper_first
+# my first project:zookeeper
